@@ -1,0 +1,113 @@
+﻿.text1 {
+    font-family: 'Comic Sans MS';
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    color: yellowgreen;
+}
+
+.text2 {
+    color: red;
+    font-weight: bold;
+}
+
+.text3 {
+    font-family: Britannic;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    color: red;
+    text-align: center;
+    height: 51px;
+}
+
+.text4 {
+    color: black;
+}
+
+.text5 {
+    font-family: 'Comic Sans MS';
+    font-style: italic;
+    font-weight: bold;
+    color: yellowgreen;
+}
+
+.text6 {
+    font-family: 'Comic Sans MS';
+    font-style: italic;
+    font-weight: bold;
+    color: cadetblue;
+}
+
+.text7 {
+    font-family: 'Tempus Sans ITC';
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    color: red;
+}
+
+.fond {
+    background-color: beige;
+}
+
+.fond2 {
+    background-color: orange;
+}
+
+.btn btn-primary {
+    float: left;
+    margin: 150px;
+}
+
+.link {
+    float: right;
+    margin: 50px
+}
+
+.label {
+    display: block;
+    width: 50px;
+    float: left;
+}
+
+.input {
+    display: inline-block;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+.row.content {
+    height: 450px
+}
+
+/* Set gray background color and 100% height */
+.sidenav {
+    padding-top: 20px;
+    background-color: #f1f1f1;
+    height: 100%;
+}
+
+/* Set black background color, white text and some padding */
+footer {
+    background-color: #555;
+    color: white;
+    padding: 15px;
+}
+
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+    .sidenav {
+        height: auto;
+        padding: 15px;
+    }
+
+    .row.content {
+        height: auto;
+    }
+}
+    
