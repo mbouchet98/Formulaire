@@ -1,0 +1,79 @@
+I:\Formulaire2\Formulaire2\bin\ApplicationInsights.config
+I:\Formulaire2\Formulaire2\bin\Formulaire2.dll.config
+I:\Formulaire2\Formulaire2\bin\Formulaire2.dll
+I:\Formulaire2\Formulaire2\bin\Formulaire2.pdb
+I:\Formulaire2\Formulaire2\bin\Antlr3.Runtime.dll
+I:\Formulaire2\Formulaire2\bin\AspNet.ScriptManager.bootstrap.dll
+I:\Formulaire2\Formulaire2\bin\AspNet.ScriptManager.jQuery.dll
+I:\Formulaire2\Formulaire2\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Formulaire2\Formulaire2\bin\Microsoft.AI.DependencyCollector.dll
+I:\Formulaire2\Formulaire2\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Formulaire2\Formulaire2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Formulaire2\Formulaire2\bin\Microsoft.AI.Web.dll
+I:\Formulaire2\Formulaire2\bin\Microsoft.AI.WindowsServer.dll
+I:\Formulaire2\Formulaire2\bin\Microsoft.ApplicationInsights.dll
+I:\Formulaire2\Formulaire2\bin\Microsoft.AspNet.FriendlyUrls.dll
+I:\Formulaire2\Formulaire2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\Formulaire2\Formulaire2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Formulaire2\Formulaire2\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\Formulaire2\Formulaire2\bin\Microsoft.ScriptManager.WebForms.dll
+I:\Formulaire2\Formulaire2\bin\Microsoft.Web.Infrastructure.dll
+I:\Formulaire2\Formulaire2\bin\Newtonsoft.Json.dll
+I:\Formulaire2\Formulaire2\bin\System.Web.Optimization.dll
+I:\Formulaire2\Formulaire2\bin\WebGrease.dll
+I:\Formulaire2\Formulaire2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Formulaire2\Formulaire2\bin\System.Web.Optimization.xml
+I:\Formulaire2\Formulaire2\bin\Antlr3.Runtime.pdb
+I:\Formulaire2\Formulaire2\bin\Microsoft.AspNet.FriendlyUrls.xml
+I:\Formulaire2\Formulaire2\bin\Newtonsoft.Json.xml
+I:\Formulaire2\Formulaire2\bin\Microsoft.ApplicationInsights.xml
+I:\Formulaire2\Formulaire2\bin\Microsoft.AI.DependencyCollector.xml
+I:\Formulaire2\Formulaire2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Formulaire2\Formulaire2\bin\Microsoft.AI.WindowsServer.xml
+I:\Formulaire2\Formulaire2\bin\Microsoft.AI.Web.xml
+I:\Formulaire2\Formulaire2\bin\fr\System.Web.Optimization.resources.dll
+I:\Formulaire2\Formulaire2\bin\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+I:\Formulaire2\Formulaire2\obj\Debug\Formulaire2.csproj.CoreCompileInputs.cache
+I:\Formulaire2\Formulaire2\obj\Debug\Formulaire2.dll
+I:\Formulaire2\Formulaire2\obj\Debug\Formulaire2.pdb
+I:\Formulaire2\Formulaire2\obj\Debug\Formulaire2.csprojResolveAssemblyReference.cache
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\ApplicationInsights.config
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Formulaire2.dll.config
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Formulaire2.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Formulaire2.pdb
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Antlr3.Runtime.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\AspNet.ScriptManager.jQuery.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.AI.DependencyCollector.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.AI.Web.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.AI.WindowsServer.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.ApplicationInsights.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.Web.Infrastructure.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Newtonsoft.Json.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\System.Web.Optimization.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\WebGrease.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\System.Web.Optimization.xml
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Antlr3.Runtime.pdb
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Newtonsoft.Json.xml
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.ApplicationInsights.xml
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.AI.DependencyCollector.xml
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.AI.WindowsServer.xml
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\Microsoft.AI.Web.xml
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\fr\System.Web.Optimization.resources.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\bin\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\obj\Debug\Formulaire2.csprojAssemblyReference.cache
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\obj\Debug\Formulaire2.csproj.CoreCompileInputs.cache
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\obj\Debug\Formulaire2.csproj.CopyComplete
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\obj\Debug\Formulaire2.dll
+D:\Travaille\Maelys temporairement\Formulaire2\Formulaire2\obj\Debug\Formulaire2.pdb
